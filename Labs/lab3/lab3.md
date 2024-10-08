@@ -1,10 +1,9 @@
 # Lab 3 submition
 
----
-Student: A
-semester: Fall 24
-Assignment: Lab 3
----
+|  Student: A       |
+--------------------
+| semester: Fall 24 |
+| Assignment: Lab 3 |
 
 # Lab 3 Submission
 
