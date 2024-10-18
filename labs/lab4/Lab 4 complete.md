@@ -11,3 +11,9 @@
 
 # Question 4
 ![Alt text](q4ss1) ![Alt text](q4ss2) ![Alt text](q4ss3)
+
+
+# Scripts used
+![Alt text](../../../Scripts/env_ls_script.sh)
+![Alt text](../../../Scripts/practice_script.sh)
+![Alt text](../../../Scripts/env_var_ex.sh)
